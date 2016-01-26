@@ -1,0 +1,124 @@
+Test v3.2
+
+What does HTML stand for?
+
+ Hyper Text Markup Language
+ Home Tool Markup Language
+ Hyperlinks and Text Markup Language
+
+What is the correct HTML code for creating a hyperlink?
+
+ <a>http://www.disney.hu</a>
+ <a name="http://www.disney.hu">disney.hu</a>
+ <a url="http://www.disney.hu">disney.hu</a>
+ <a href="http://www.disney.hu">disney.hu</a>
+
+What is the correct HTML code for making a text input field?
+
+ <input type="text">
+ <input type="textfield">
+ <textfield>
+ <textinput type="text">
+
+HTML comments start with <!-- and end with -->
+
+ True
+ False
+
+Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?
+
+ longdesc
+ alt
+ title
+ src
+
+What is the correct HTML code for adding a background color?
+
+ <background>yellow</background>
+ <body style="background-color:yellow;">
+ <body bg="yellow">
+
+Which of these set of elements correctly start a table element?
+
+ <thead><body><tr>
+ <table><head><tfoot>
+ <table><tr><td>
+ <table><tr><tt>
+
+What is the correct HTML code to start defining a drop-down list?
+
+ <input type="dropdown">
+ <select>
+ <list>
+ <input type="list">
+
+What is the correct HTML code for inserting an image?
+
+ <image src="image.gif" alt="MyImage">
+ <img src="image.gif" alt="MyImage">
+ <img alt="MyImage">image.gif</img>
+ <img href="image.gif" alt="MyImage">
+
+What is the correct HTML code for inserting a background image?
+
+ <body style="background-image:url(background.gif)">
+ <body bg="background.gif">
+ <background img="background.gif">
+
+What is the correct HTML code for inserting an image having absolute path in a HTML
+email source code?
+
+ <img src="c:\image\image.gif" alt="MyImage">
+ <img src="http://domain.tld/image/image.gif" alt="MyImage">
+ <img src="//domain.tld/image/image.gif" alt="MyImage">
+ <img src="file:///c:\image\image.gif" alt="MyImage">
+ <img src="domain.tld/image/MyImage">image.gif</img>
+
+How can you track whether an HTML mail has been opened?
+
+ Answer:
+ 
+How can you track whether a text-only mail has been opened?
+
+ Answer:
+ 
+How can you track that your visitor on your web page came from a link on your newsletter?
+
+ Answer: 
+ 
+How can you send an email in some other persons name? (technically, not legally)
+
+ Answer:
+ 
+Which one(s) are valid DNS record type(s)?
+
+ CNAME
+ RNAME
+ AAAA
+ DNAME
+ SNAME
+
+Correct the following SQL query and name the SQL version you used:
+
+ PLEASE SELECT * IN TABLE WHERE COLUMN A IS EQUAL 8 ORDER RANDOMLYo
+
+Write an Excel expression which extracts the country domain from the following URL: http://disney.de
+
+ Answer:
+
+What is the difference between Page Views, Page Visits and Unique Visitors of a web page? How would you count them in order to get a reliable result?
+
+ Answer:
+
+What is the difference between a HTTP 301 and a 302 redirect?
+
+ Answer:
+
+What is the web technology you most like and was invented in the last couple of years? Why?
+ 
+ Answer:
+ 
+Do you want to hear a TCP joke?
+
+ Answer:
+
